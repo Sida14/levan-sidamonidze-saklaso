@@ -1,0 +1,195 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+
+.div1 {
+    background-color: hsl(0, 0%, 12%);
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 525px;
+    margin-top: 100px;
+}
+
+img {
+    border-radius: 50%;
+    width: 80px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+
+
+.div2 {
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 225px;
+    height: 30px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+
+.div3 {
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 225px;
+    height: 30px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+
+.div4 {
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 225px;
+    height: 30px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+
+.div5 {
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 225px;
+    height: 30px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+
+.div6 {
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 225px;
+    height: 30px;
+    background-color: hsl(0, 0%, 20%);
+}
+
+
+.p1 {
+    color: white;
+    margin-left: 59px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+}
+
+
+.p2{
+    color: hsl(75, 94%, 57%);
+    margin-left: 67px;
+    margin-top: -20px;
+    font-size:  14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+}
+
+
+.p3 {
+    color: white;
+    margin-left: 65px;
+    margin-top: 30px;
+    font-size: 10px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
+.p4 {
+    margin-left: 89px;
+    padding-top: 6px;    
+    color: white;
+}
+
+
+.p5 {
+    margin-left: 59px;
+    padding-top: 6px;
+    color: white;
+}
+
+
+.p6 {
+    margin-left: 85px;
+    padding-top: 6px;
+    color: white;
+}
+
+
+
+.p7 {
+    margin-left: 90px;
+    padding-top: 6px;
+    color: white;
+}
+
+
+
+.p8 {
+    margin-left: 81px;
+    padding-top: 6px;
+    color: white;
+}
+
+
+
+
+
+.div2:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+
+.div3:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+
+.div4:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+
+
+.div5:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+
+
+
+.div6:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
